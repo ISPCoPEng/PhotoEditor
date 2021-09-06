@@ -13,6 +13,7 @@ Custom photo editor application
 3.)	Extract to root level of PhotoEditor folder. So PhotoEditor/
 
 4.) Follow instructions for setting up opencv and Qt make sure you install Qt version 5.9.9 only
+	
 	Windows: 
 	https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows
 	Things to note:
