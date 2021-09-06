@@ -27,8 +27,11 @@ Custom photo editor application
 5.) Open the PhotoEditor.pro project file using Qt
 
 6.) Build PhotoEditor and run it using a sample image. 
-![Image before grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_after_grayscale.PNG)
+Before Grayscale
 ![Image after grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_before_grayscale.PNG)
+After Grayscale
+![Image before grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_after_grayscale.PNG)
+
 
 7.) Do cool ISP stuff
 
