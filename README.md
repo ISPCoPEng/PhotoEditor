@@ -30,11 +30,11 @@ Custom photo editor application
 
 	Before Grayscale
 
-	![Image after grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_before_grayscale.PNG)
+![Image after grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_before_grayscale.PNG)
 
 	After Grayscale
 
-	![Image before grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_after_grayscale.PNG)
+![Image before grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_after_grayscale.PNG)
 
 
 7.) Do cool ISP stuff
