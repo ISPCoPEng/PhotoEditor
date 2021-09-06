@@ -28,11 +28,11 @@ Custom photo editor application
 
 6.) Build PhotoEditor and run it using a sample image. 
 
-	Before Grayscale
+	# Before Grayscale
 
 ![Image after grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_before_grayscale.PNG)
 
-	After Grayscale
+	# After Grayscale
 
 ![Image before grayscale](https://github.com/ISPCoPEng/PhotoEditor/blob/main/PhotoEditor_Demo_after_grayscale.PNG)
 
