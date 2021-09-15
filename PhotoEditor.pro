@@ -35,8 +35,8 @@ FORMS += \
         photoeditor.ui
 
 
-unix|win32: LIBS += -L$$PWD/opencv/build/bin/lib/ \
-                    -llibopencv_core453.dll \
+unix|win32: LIBS += -L$$PWD/opencv/build/bin/ \
+                    -llibopencv_core453 \
                     -llibopencv_highgui453 \
                     -llibopencv_imgproc453 \
                     -llibopencv_features2d453 \
