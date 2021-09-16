@@ -127,7 +127,7 @@ PhotoEditor::PhotoEditor(QWidget *parent)
      *     {
      *          // Your logic goes here
      *          // Do cool ISP stuff
-     *          // showImage();
+     *          // refreshImage();
      *     }
      * 5.)Done.
     */
